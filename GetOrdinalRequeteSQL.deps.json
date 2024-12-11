@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GetOrdinalRequeteSQL/1.0.6.21": {
+        "runtime": {
+          "GetOrdinalRequeteSQL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GetOrdinalRequeteSQL/1.0.6.21": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
